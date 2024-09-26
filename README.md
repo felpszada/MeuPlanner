@@ -1,2 +1,2 @@
 # MeuPlanner
-App para organização da vida do estudante
+App para organização da vida do estudante!
